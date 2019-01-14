@@ -1,0 +1,15 @@
+---
+title: "R"
+author: "Leandro Pereira Garcia"
+date: 2019-01-11
+categories: ["R"]
+tags: ["R"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R 
+
+O R é uma linguagem de programação

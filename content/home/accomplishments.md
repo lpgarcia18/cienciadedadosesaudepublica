@@ -1,46 +1,76 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # Do not modify this line!
-active = true  # Activate this widget? true/false
-
-title = "Accomplish&shy;ments"
-subtitle = ""
-
-# Order that this section will appear in.
-weight = 15
-
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
+---
+active: true
+date_format: Jan 2006
+item:
+- certificate_url: /Cursos_de_Data_Science/Introduction_to_R_Course.pdf
+  date_end: ""
+  date_start: "2017-01-01"
+  description: 
+  organization: DataCamp
+  title: Introduction to R Course
+- certificate_url: /Cursos_de_Data_Science/Intermediate R Course.pdf
+  date_end: ""
+  date_start: "2017-03-01"
+  description: 
+  organization: DataCamp
+  title: Intermediate R Course 
+- certificate_url: /Cursos_de_Data_Science/Intermediate R Course - Practice Course.pdf
+  date_end: ""
+  date_start: "2017-05-01"
+  description: 
+  organization: DataCamp
+  title: Intermediate R Course - Practice Course 
+- certificate_url: /Cursos_de_Data_Science/Introduction to Git for Data Science Course.pdf
+  date_end: ""
+  date_start: "2017-07-01"
+  description: 
+  organization: DataCamp
+  title: Introduction to Git for Data Science Course
+- certificate_url: /Cursos_de_Data_Science/Introduction to Machine Learning Course.pdf
+  date_end: ""
+  date_start: "2017-10-01"
+  description: 
+  organization: DataCamp
+  title: Introduction to Machine Learning Course 
+- certificate_url: /Cursos_de_Data_Science/Machine Learning Tool Box Course.pdf
+  date_end: ""
+  date_start: "2017-12-01"
+  description: 
+  organization: DataCamp
+  title: Machine Learning Tool Box Course
+- certificate_url: /Cursos_de_Data_Science/Machine Learning with Tree-Based Models i R Course.pdf
+  date_end: ""
+  date_start: "2018-02-01"
+  description: 
+  organization: DataCamp
+  title: Machine Learning with Tree-Based Models in R Course
+- certificate_url: /Cursos_de_Data_Science/Automating Data Exploration with R.pdf
+  date_end: ""
+  date_start: "2018-04-01"
+  description: 
+  organization: Udemy
+  title: Automating Data Exploration with R
+- certificate_url: /Cursos_de_Data_Science/Introduction to Time Series Analysis Course.pdf
+  date_end: ""
+  date_start: "2018-06-01"
+  description: 
+  organization: DataCamp
+  title: Introduction to Time Series Analysis Course
+- certificate_url: /Cursos_de_Data_Science/Linear Mixed-Effects Models.pdf
+  date_end: ""
+  date_start: "2018-08-01"
+  description: 
+  organization: Udemy
+  title: Linear Mixed-Effects Models
+- certificate_url: /Cursos_de_Data_Science/Hierarchical and Mixed Effects Models Course.pdf
+  date_end: ""
+  date_start: "2018-10-01"
+  description: 
+  organization: DataCamp
+  title: Hierarchical and Mixed Effects Models Course
   
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
-+++
+subtitle: ""
+title: Certificações
+weight: 15
+widget: accomplishments
+---
