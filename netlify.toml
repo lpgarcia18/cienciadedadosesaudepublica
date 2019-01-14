@@ -1,5 +1,5 @@
 [build]
-  publish = "github.com/lpgarcia18/cienciadedadosesaude/public"
+  publish = "public"
   command = "hugo"
 
 [context.production.environment]
