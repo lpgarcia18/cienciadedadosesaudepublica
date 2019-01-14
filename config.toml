@@ -95,8 +95,8 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
-  map_api_key = "AIzaSyCukzXYvfskvkBujEP4w-74bqjmHbSgbEw"
+  map = 0
+  map_api_key = ""
   latitude = "51.560599"
   longitude = " -0.117420"
   zoom = 15
