@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ciência de Dados em Saúde Pública</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Ciência de Dados em Saúde Pública</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R</title>
+      <link>/post/o_que_e_o_r/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/o_que_e_o_r/</guid>
+      <description>RO R é uma linguagem de programação
+</description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/post/o_que_e_o_r_rmarkdown/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/o_que_e_o_r_rmarkdown/</guid>
+      <description>R MarkdownO R Markown é um Ambiente de Desenvolvimento Integrado (Integrated Development Environment - IDE).
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
+ View the documentation Ask a question Request a feature or report a bug Updating?</description>
+    </item>
+    
+  </channel>
+</rss>

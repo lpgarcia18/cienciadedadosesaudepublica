@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547493573498.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49CFBA30",
+    "lastKnownWriteTime" : 1547494842,
+    "last_content_update" : 1547494842579,
+    "path" : "C:/Users/hp1806/Google Drive/RStudio/cienciadedadosesaudepublica/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "14,47",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

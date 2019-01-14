@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Ciência de Dados em Saúde Pública</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Ciência de Dados em Saúde Pública</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R</title>
+      <link>/post/o_que_e_o_r/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/o_que_e_o_r/</guid>
+      <description>RO R é uma linguagem de programação
+</description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/post/o_que_e_o_r_rmarkdown/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/o_que_e_o_r_rmarkdown/</guid>
+      <description>R MarkdownO R Markown é um Ambiente de Desenvolvimento Integrado (Integrated Development Environment - IDE).
+</description>
+    </item>
+    
+  </channel>
+</rss>
