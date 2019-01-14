@@ -9,13 +9,13 @@
 baseurl = "/"
 
 # Title of your site
-title = "Ciência de Dados em Saúde Pública"
+title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "hugo-academic"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -52,26 +52,28 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Leandro Pereira Garcia"
-  role = "Médico Pediatra & Coordenador do Departamento de Análise de Dados"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Secretaria Municipal de Saúde de Florianópolis", url = "http://www.pmf.sc.gov.br/entidades/saude/" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "foto.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "lpgarcia18@gmail.com"
-  address = "125 Axminster Road, London, UK"
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = """
-  Segunda à Sexta 08:00 às 18:00<br>
-  
-  Ou marque uma reunião pelo email lpgarcia18@gmail.com
+  Monday 10:00 to 13:00<br>
+  Wednesday 09:00 to 10:00<br>
+  Otherwise email to book an appointment
   """
-  Telefone = "+44 071585-657147"
-  WhatsApp = "+55 48 9917-10201"
+  phone = "888 888 88 88"
+  skype = "echo123"
+  telegram = ""
+  keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -95,10 +97,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
-  map_api_key = "AIzaSyCukzXYvfskvkBujEP4w-74bqjmHbSgbEw"
-  latitude = "51.560599"
-  longitude = " -0.117420"
+  map = 0
+  map_api_key = ""
+  latitude = "37.4275"
+  longitude = "-122.1697"
   zoom = 15
 
   # SITE SETUP
@@ -120,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "@drleandrogarcia"
+  twitter = ""
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -266,17 +268,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/drleandrogarcia"
+    link = "https://twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?hl=pt-BR&view_op=list_works&gmla=AJsN-F63wSdJC2bMrOSWX35DoDFysJxx_I0BMQCSzaWy2pt4KhO-SRZ6-O1CgxQuC4Dq_RvyyYtd3mC5RAMVOl23VhbMM6XSq2RqF-oy8cvpPtH0eX-t5uY&user=l8TvC7MAAAAJ"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/lpgarcia18"
+    link = "https://github.com/gcushen"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -299,7 +301,7 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publicações"
+  name = "Publications"
   url = "#publications_selected"
   weight = 2
 
@@ -309,26 +311,26 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projetos"
+  name = "Projects"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Tutoriais"
+  name = "Tutorials"
   url = "/tutorial/"
   weight = 5
 
 [[menu.main]]
-  name = "Contato"
+  name = "Contact"
   url = "#contact"
   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
-    name = "CV"
-    url = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4341710H9"
-    weight = 7
+# [[menu.main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 7
 
 # Search.
 [params.search]
@@ -358,7 +360,7 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [languages.en]
-  languageCode = "pt"
+  languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
